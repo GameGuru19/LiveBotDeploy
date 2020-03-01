@@ -1,0 +1,1 @@
+worker: java -jar BOT.jar
