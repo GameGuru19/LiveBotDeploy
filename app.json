@@ -1,0 +1,24 @@
+{
+  "name": "tushlivebot",
+  "description": "An easy and simple to use Live Bot (For YouTube Live ONLY) - DM to contact mods!",
+  "repository": "https://github.com/TushBT/LiveBotDeploy",
+  "env": {
+    "TOKEN": {
+      "description": "Your discord bot's token.",
+      "required": true
+    },
+    
+    "OWNER_ID": {
+      "description": "ID of OWNER that is owner of the server.(eval).",
+      "required": true
+    },
+    "MONGO_URI": {
+      "description": "Mongo DB connection URI for self-hosting your data.",
+      "required": true
+    },
+    "LOG_CHANNEL_ID": {
+      "description": "The ID of the LOG channel of the server.",
+      "required": true
+    }
+  }
+}
