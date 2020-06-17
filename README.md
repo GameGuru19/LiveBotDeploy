@@ -1,8 +1,6 @@
-# LiveBotDeploy
-To be downloaded and be deployed on heroku.
-Click Deploy to Heroku to deploy Live BOT on Heroku.
+# Tush LiveBot
 
-### This is a third-tier heading
+### About
 
 This is free Self hosting Live Bot for your discord server. You can host it anywhere you want. The Bot is written in Java 8 using JDA Lib. Join discord for setup.
  
@@ -20,6 +18,7 @@ This is free Self hosting Live Bot for your discord server. You can host it anyw
 
 You can run this self hosting bot for free forever on Heroku.
 
+Click Deploy to Heroku to deploy Live BOT on Heroku.(Please watch video before clicking Deploy. See Discord)
 <a href="https://heroku.com/deploy?template=https://github.com/TushBT/LiveBotDeploy.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
